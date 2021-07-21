@@ -1,4 +1,7 @@
-### 
+### Resources and Guide
+
+Narsimha Karumanchi DSA Book - [pdf](http://www.dhimangaurav.com/docs/data.pdf)
+
 
 1) Abdul Bari DSA Course
 2) Coursera DSA Specialization
