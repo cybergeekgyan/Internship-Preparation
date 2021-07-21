@@ -1,4 +1,4 @@
 # Internship-Preparation-
 
 
-Must Do Coding Questions - [LINK](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/)
+Must Do Coding Questions for Product Based Companies - [LINK](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/)
