@@ -13,3 +13,30 @@ Narsimha Karumanchi DSA Book - [pdf](http://www.dhimangaurav.com/docs/data.pdf)
    - DSA Sheet By fraz
    - 150 Quesions from 30dayscoding.com
    - Striver's SDE Sheet 180 Questions
+
+
+ ## Data Structures Roadmap for Internships/Placements
+
+* Time and Space Complexity
+* Arrays and Strings
+* Multi Dimensional Arrays
+* Recursion and Backtracking
+* Sorting Algorithms
+* Binary Search & its Applications
+* Linked Lists
+* Stacks & Queues
+* Binary Trees
+* BST
+* Priority Queues & Heaps
+* Graphs
+* Dynamic Programming
+* Other Topics
+    * Hashmaps
+    * Tries
+    * Bit Manipulation
+    * Greedy
+    * Circular Queues
+    * Dequeue
+    * Doubly & Circular Linkedlist
+    * String Algorithms like KMP & Z Algorithm
+
