@@ -1,4 +1,52 @@
-## Experience - 1 
+# Experience - 1
+
+## CODING TEST
+
+- The test has 5 sections and duration is 2 hours 15 minutes. All sections are mandatory.
+- The Coding section has 2 programming questions and duration is 30 mins.
+- The CS multiple choice section has 7 MCQs and duration is 25 mins.
+- The Problem Solving multiple choice section has 8 MCQs and duration is 20 mins.
+- Each MCQ earns you 5 marks for correct answer and -2 for incorrect answer.
+- The Advanced section has 1 programming question and duration is 45 mins.
+- The Subjective section has 2 questions and duration is 15 mins.
+
+
+## FIRST INTERVIEW ROUND
+
+*QUESTIONS ASKED*
+
+- https://www.geeksforgeeks.org/find-excel-column-name-given-number/
+- https://www.geeksforgeeks.org/find-excel-column-number-column-title/
+- Explain deadlock
+- Explain what is Hashmap and linked list. Why we use them? And where do we use them?
+- Why we prefer linked list over array?
+- What are the time complexity of various operations in both data Hashmap and linked list?
+- What do I like about GS more and why do I want to be the part of GS.
+
+## SECOND INTERVIEW ROUND
+
+*QUESTIONS ASKED*
+
+- One coding question medium level
+- Second was quiz question  -> https://www.geeksforgeeks.org/puzzle-water-jug-problem/  –> I wasn’t familiar to this quiz at that time. So interviewer saw all my thinking process.
+- Then interviewer asked about my project like what is the concept of project, technologies used, etc.
+
+
+## HR ROUND
+
+- Latest version of C++
+- What is the difference between C++ and C++17
+- Name some new features that are introduced in C++17
+- What is cloud computing and cloud credits
+- Benefits of using cloud computing
+- Why you want to be the part of GS
+- Give some project idea that can be used in COVID-19
+
+
+
+
+
+# Experience - 2
 
 ### Round 1 (Online Assessment Test): Platform was HackerRank with tab proctoring and webcam proctoring enabled. This round consisted of 5 sections(There was section-wise time limit)
 
