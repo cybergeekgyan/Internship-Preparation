@@ -35,38 +35,37 @@ Grokking the System Design Interview & Grokking the Advanced System Design Inter
 
 ### SYSTEM DESIGN BOOKS
 
-Web Scalability for Startup Engineers - https://amzn.to/39c55QV
-Designing Data Intensive Applications - https://amzn.to/3fxgOLm
-Building Microservices - https://amzn.to/2UUPsFi
-System Design Interview - https://amzn.to/33gpRev
+- Web Scalability for Startup Engineers - https://amzn.to/39c55QV
+- Designing Data Intensive Applications - https://amzn.to/3fxgOLm
+- Building Microservices - https://amzn.to/2UUPsFi
+- System Design Interview - https://amzn.to/33gpRev
 
 ### BONUS BOOKS
 
-Microservice Patterns and Best Practices - https://amzn.to/2JcEWH2
-Domain Driven Design - https://amzn.to/2UUPXza
+- Microservice Patterns and Best Practices - https://amzn.to/2JcEWH2
+- Domain Driven Design - https://amzn.to/2UUPXza
 
 ### PRODUCT DESIGN BOOKS
 
-RESTful Web APIs - https://amzn.to/33gpctH
-Build APIs You Won't Hate - https://amzn.to/3l1vMKG
+- RESTful Web APIs - https://amzn.to/33gpctH
+- Build APIs You Won't Hate - https://amzn.to/3l1vMKG
 
 ### LOW LEVEL DESIGN BOOKS
 
-Clean Architecture - https://amzn.to/3kZ7UqR
-Head First Design Patterns - https://amzn.to/36XTqT2
+- Clean Architecture - https://amzn.to/3kZ7UqR
+- Head First Design Patterns - https://amzn.to/36XTqT2
 
 ### BOOKS ON RELEVANT TECHNOLOGIES
 
-I Heart Logs - https://amzn.to/39iF6Yp
-Kafka: The Definitive Guide - https://amzn.to/3997wUB
-Graph Databases - https://amzn.to/2UZE8aQ
-Cassandra: The Definitive Guide - https://amzn.to/39e31rB
+- I Heart Logs - https://amzn.to/39iF6Yp
+- Kafka: The Definitive Guide - https://amzn.to/3997wUB
+- Graph Databases - https://amzn.to/2UZE8aQ
+- Cassandra: The Definitive Guide - https://amzn.to/39e31rB
 
 ### FREE BOOKS
 
-Site Reliability at Google - https://sre.google/books/
-Distributed Systems for Fun and Profit - http://book.mixu.net/distsys/
-
+- Site Reliability at Google - https://sre.google/books/
+- Distributed Systems for Fun and Profit - http://book.mixu.net/distsys/
 
 
 ### Important Concepts
