@@ -4,6 +4,8 @@
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Preparation](https://github.com/shashank88/system_design)
+- [collection of awesome design systems](https://github.com/alexpate/awesome-design-systems?)
+- [Low Level Design Primer](https://github.com/prasadgujar/low-level-design-primer)
 
 ### Youtube Resources
 
