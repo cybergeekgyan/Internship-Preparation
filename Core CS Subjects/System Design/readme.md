@@ -3,6 +3,7 @@
 - [Awesome System Design (A.K.A. Distributed Systems) resources.](https://github.com/madd86/awesome-system-design)
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Design Preparation](https://github.com/shashank88/system_design)
 
 ### Youtube Resources
 
