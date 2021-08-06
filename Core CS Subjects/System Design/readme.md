@@ -9,7 +9,10 @@
 - [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 - [System design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
-[System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+
+==>> [System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+
+
 
 ### Books and blogs: 
 
