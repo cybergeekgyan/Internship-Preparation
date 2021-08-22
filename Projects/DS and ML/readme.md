@@ -1,3 +1,5 @@
+[Link to the Article](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9)
+
 ### Machine Learning Projects for Beginners
 
 - Stock Price Prediction
