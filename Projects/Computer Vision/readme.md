@@ -1,4 +1,4 @@
 ## Projects 
 
-- Document Scanner
-- QR Reader
+- [Document Scanner]()
+- [QR Reader]()
