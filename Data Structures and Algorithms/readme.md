@@ -1,10 +1,13 @@
-### Resources and Guide
+## Resources and Guide
+
+### Books to follow
 
  * Narsimha Karumanchi DSA Book - [pdf](http://www.dhimangaurav.com/docs/data.pdf)
  * Introduction to Algorithms - [pdf]()
 
  * Cracking The Coding Interview - [pdf]()
 
+### Courses to Follow
 
 1) [Abdul Bari DSA Course](https://www.udemy.com/course/datastructurescncpp/)
 2) [Coursera DSA Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
