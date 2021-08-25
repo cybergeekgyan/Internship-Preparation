@@ -12,7 +12,7 @@ Narsimha Karumanchi DSA Book - [pdf](http://www.dhimangaurav.com/docs/data.pdf)
    - [Love Babbar 450 Questions]()
    - [DSA Sheet By fraz]()
    - [150 Quesions from 30dayscoding.com]()
-   - [Striver's SDE Sheet 180 Questions]()
+   - [Striver's SDE Sheet]()
 
 
  ## Data Structures Roadmap for Internships/Placements
