@@ -9,10 +9,10 @@ Narsimha Karumanchi DSA Book - [pdf](http://www.dhimangaurav.com/docs/data.pdf)
 
 ### Practice standard Questions from
 
-   - Love Babbar 450 Questions
-   - DSA Sheet By fraz
-   - 150 Quesions from 30dayscoding.com
-   - Striver's SDE Sheet 180 Questions
+   - [Love Babbar 450 Questions]()
+   - [DSA Sheet By fraz]()
+   - [150 Quesions from 30dayscoding.com]()
+   - [Striver's SDE Sheet 180 Questions]()
 
 
  ## Data Structures Roadmap for Internships/Placements
