@@ -1,10 +1,15 @@
 ### Resources and Guide
 
-Narsimha Karumanchi DSA Book - [pdf](http://www.dhimangaurav.com/docs/data.pdf)
+ * Narsimha Karumanchi DSA Book - [pdf](http://www.dhimangaurav.com/docs/data.pdf)
+ * Introduction to Algorithms - [pdf]()
+
+ * Cracking The Coding Interview - [pdf]()
 
 
-1) Abdul Bari DSA Course
-2) Coursera DSA Specialization
+1) [Abdul Bari DSA Course](https://www.udemy.com/course/datastructurescncpp/)
+2) [Coursera DSA Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+3) [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+4) [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
 
 
 ### Practice standard Questions from
