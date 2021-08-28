@@ -21,6 +21,7 @@
    - [DSA Sheet By fraz]()
    - [150 Quesions from 30dayscoding.com]()
    - [Striver's SDE Sheet]()
+   - [DSA DAY WISE](https://docs.google.com/spreadsheets/d/11tevcTIBQsIvRKIZLbSzCeN4mCO6wD4O5meyrAIfSXw/edit#gid=136755630)
 
 
  ## Data Structures Roadmap for Internships/Placements
