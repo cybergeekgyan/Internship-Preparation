@@ -21,6 +21,10 @@
      
    - [pdf](https://github.com/cybergeekgyan/Internship-Preparation-/blob/main/Core%20CS%20Subjects/DBMS/DBMS_Notes.docx)
 
+  **GeeksForGeeks**
+  
+   - [DBMS](https://www.geeksforgeeks.org/dbms/)
+
 
 **Books**
    
