@@ -17,10 +17,17 @@
 
 ## Resources 
 
+---- **DBMS NOTES** ----
+     
+   - [pdf](https://github.com/cybergeekgyan/Internship-Preparation-/blob/main/Core%20CS%20Subjects/DBMS/DBMS_Notes.docx)
+
+
 **Books**
    
-   - 
-   - [Tutorials Point]()
+   - [Data Base Systems Concept](https://github.com/cybergeekgyan/Internship-Preparation-/blob/main/Core%20CS%20Subjects/DBMS/databasesystems7thedition.pdf)
+   - [Tutorials Point](https://github.com/cybergeekgyan/Internship-Preparation-/blob/main/Core%20CS%20Subjects/DBMS/dbms_tutorial.pdf)
+   - [Teach Yourself SQL in 24 Hours](https://github.com/cybergeekgyan/Internship-Preparation-/blob/main/Core%20CS%20Subjects/DBMS/Teach%20Yourself%20SQL%20In%2024%20hours.pdf)
+   - [The Definitive Guide to MongoDB, 3rd Edition](https://github.com/cybergeekgyan/Internship-Preparation-/blob/main/Core%20CS%20Subjects/DBMS/The%20Definitive%20Guide%20to%20MongoDB%2C%203rd%20Edition.pdf)
    
 
 **YOUTUBE**
