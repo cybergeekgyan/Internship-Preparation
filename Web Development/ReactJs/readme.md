@@ -27,5 +27,8 @@
 1️⃣4️⃣  Twitter Clone 
    
 1️⃣5️⃣ Slack Clone
-   
+  
+1️⃣6️⃣ Windows 11 Clone 
+  
+1️⃣7️⃣  MacOs Clone
    
