@@ -1,3 +1,5 @@
+## SYSTEM DESIGN ONLINE RESOURCE
+
 
 - [System Design (Gaurav Sen) Youtube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [System Design Primer Course (sudoCode) Youtube](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
@@ -6,9 +8,6 @@
 - [System Design (SDE SKills) Youtube](https://www.youtube.com/playlist?list=PLBtMh4xfa9FHSMKKgPZcPfoPbZmND5PC-)
 - [System Design (Scaler) Youtuhe](https://www.youtube.com/watch?v=LsDZab4GpVc)
 
-
-
-## SYSTEM DESIGN ONLINE RESOURCE
 
 
 ### SYSTEM DESIGN BOOKS
