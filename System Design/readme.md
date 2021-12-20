@@ -10,6 +10,21 @@
 
 
 
+## SYSTEM DESIGN OF FAMOUS APPS AND WEBSITES
+
+- [Whatsapp System Desgin](https://www.youtube.com/watch?v=LsH-t75P544)
+- [Instagram Design](https://www.youtube.com/watch?v=QmX2NPkJTKg)
+- [TikTok Architechture Design](https://www.youtube.com/watch?v=07BVxmVFDGY)
+- [Tinder System Design](https://www.youtube.com/watch?v=tndzLznxq40)
+- [System Design of Amazon, Flipkart like E-commerce](https://www.youtube.com/watch?v=2BWr0fsDSs0)
+- [Mock Low Level Design Interview](https://www.youtube.com/watch?v=J-4UQ_WpMtc)
+- [High Level Design vs Low Level Design](https://www.youtube.com/watch?v=H703ErIrby8)
+- [low Level Design of a Fitness App](https://www.youtube.com/watch?v=7-A5NgGrJqY)
+- [Mock Low Level Design Interview](https://www.youtube.com/watch?v=cqxowa0JbpI)
+
+
+
+
 ### SYSTEM DESIGN BOOKS
 
 - [Web Scalability for Startup Engineers](https://amzn.to/39c55QV)
