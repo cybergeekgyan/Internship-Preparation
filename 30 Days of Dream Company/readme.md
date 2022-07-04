@@ -1,7 +1,7 @@
 ## 30 DAYS OF DREAM COMPANY ROADMAP 
 
-- We will cover 5-6 main topics in 100 days, and 
-- we will target the interviews of big tech companies such as Facebook, Google, Microsoft, Amazon, etc. 
+- We will cover main topics in 30 days, and 
+- We will target the interviews of big tech companies such as Facebook, Google, Microsoft, Amazon, etc. 
 
 *These topics are given below…*
 
