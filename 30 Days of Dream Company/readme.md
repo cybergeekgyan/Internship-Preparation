@@ -5,7 +5,7 @@
 
 *These topics are given below…*
 
-  - [Data Structures](Coding part and problem solving)]()
+  - [Data Structures]()
      - Arrays and ADT
      - Strings 
      - Matrices
@@ -20,7 +20,7 @@
      - Suffix Trees
      - Segment Trees
   
-  - [Algorithms](Coding part and problem solving)]()
+  - [Algorithms]()
      - Bit-Manipulation
      - Recursion and Backtracking
      - Algorithms Design Techniques
