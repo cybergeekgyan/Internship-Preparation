@@ -2,6 +2,8 @@
 
 Resources:
 
+[Big Companies Interview Questions](https://github.com/realabbas/big-companies-interview-questions)
+
 
 1. Aptitude
  - Indiabix: https://www.indiabix.com/aptitude/que...
