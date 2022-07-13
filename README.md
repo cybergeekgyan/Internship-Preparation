@@ -50,3 +50,39 @@ https://450dsa.com
 DSA Cheatsheet 
 
   - Love Babbar 450 Questions - [Link]()
+  
+  
+## Link for all the notes By Riti Kumari
+
+- 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 -> https://lnkd.in/dm4ufFzU
+
+- 𝗢𝗢𝗣𝗦 𝗻𝗼𝘁𝗲𝘀 -> https://lnkd.in/dYxmy3Rk
+
+- 𝗗𝗕𝗠𝗦/𝗦𝗤𝗟 𝗻𝗼𝘁𝗲𝘀 -> https://lnkd.in/dE9-xfBA
+
+- 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗶𝗻 𝗖/𝗖++ -> https://lnkd.in/dA2eAXbM
+
+- 𝗚𝗶𝘁/𝗚𝗶𝘁𝗛𝘂𝗯 -> https://lnkd.in/d-84pa9e
+
+- 𝗛𝗧𝗠𝗟/𝗖𝗦𝗦/𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 -> https://lnkd.in/dQXfVQrb
+
+- 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝘀𝘆𝘀𝘁𝗲𝗺 -> https://lnkd.in/dqwJNefd
+
+- 𝗖++ 𝗦𝗧𝗟 -> https://lnkd.in/dUXsz43B
+
+- 𝗗𝗦𝗔 -> https://lnkd.in/d_z7RfJ7
+
+- 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗻𝗲𝘁𝘄𝗼𝗿𝗸𝘀 -> https://lnkd.in/dJ2pm2_H
+
+- 𝗦𝘁𝗮𝗰𝗸𝘀 𝗮𝗻𝗱 𝗾𝘂𝗲𝘂𝗲 ->https://lnkd.in/dw6dQbjF
+
+- 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 -> https://lnkd.in/derK8tCS
+
+- 𝐂𝐫𝐲𝐩𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲-> https://lnkd.in/dTagiP9S
+
+- 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠-> https://lnkd.in/dAWDfzez
+
+- 𝐃𝐚𝐭𝐚 𝐖𝐚𝐫𝐞𝐡𝐨𝐮𝐬𝐞 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐌𝐢𝐧𝐢𝐧𝐠 -> https://lnkd.in/dcqZNuQN
+
+
+** 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗳𝗼𝗿 𝗽𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗽𝗹𝗮𝗰𝗲𝗺𝗲𝗻𝘁𝘀-https://lnkd.in/d6zpHj4P **
