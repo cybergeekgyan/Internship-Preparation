@@ -58,6 +58,11 @@
 
 6. Projects
 - Video link: https://youtu.be/r6uADC6f9_o
+- [File Zipper](https://coderspacket.com/huffman-codi...)
+- [Sudoku Solver]( https://github.com/ArjArav98/Sudoku-S...)
+- [Sorting visualiser](https://github.com/dipesh-m/Sorting-V...)
+- [Tiny Url](https://medium.com/@sandeep4.verma/sy...)
+- [Metro App](https://github.com/KISLAYA-SRI/THE-ME...)
 
 
 GeeksForGeeks Amazon SDE Test Series - https://practice.geeksforgeeks.org/co...
