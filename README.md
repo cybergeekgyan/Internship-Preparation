@@ -20,7 +20,13 @@
 
 ### Resources:
 
-[Big Companies Interview Questions](https://github.com/realabbas/big-companies-interview-questions)
+- [Big Companies Interview Questions](https://github.com/realabbas/big-companies-interview-questions)
+
+- [Must Do Coding Questions for Product Based Companies](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/)
+
+- [Must DO Coding Questions Company Wise](https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=grb)
+
+- [Practice for cracking any coding interview](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/?ref=grb)
 
 
 1. Aptitude
@@ -55,14 +61,6 @@
 
 
 GeeksForGeeks Amazon SDE Test Series - https://practice.geeksforgeeks.org/co...
-
-Must Do Coding Questions for Product Based Companies - [LINK](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/)
-
-Must DO Coding Questions Company Wise - [LINK](https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=grb)
-
-Practice for cracking any coding interview - [LINK](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/?ref=grb)
-
-
 
   
 ## Link for all the notes By Riti Kumari
