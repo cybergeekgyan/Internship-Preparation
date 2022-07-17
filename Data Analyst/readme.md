@@ -1,6 +1,6 @@
 <h1 align="center">Data Analyst Roadmap 📊</h1>
 
-**I am sharing my journey of Data Analytics by participating in Ken Jee's #66daysofdata challenge** 
+**I am sharing my journey of Data Analytics** 
 
 **Data Analytics** is the process of exploring and analyzing large datasets to find hidden patterns, unseen trends, discover correlations, and derive valuable insights to make business predictions.
 
