@@ -8,7 +8,8 @@
 - [System Design (SDE SKills) Youtube](https://www.youtube.com/playlist?list=PLBtMh4xfa9FHSMKKgPZcPfoPbZmND5PC-)
 - [System Design (Scaler) Youtuhe](https://www.youtube.com/watch?v=LsDZab4GpVc)
 
-- resources for preparation : https://www.interviewbit.com/courses/system-design/
+###  resources for preparation : 
+- https://www.interviewbit.com/courses/system-design/
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [Awesome System Design (A.K.A. Distributed Systems) resources.](https://github.com/madd86/awesome-system-design)
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
