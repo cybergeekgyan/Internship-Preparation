@@ -39,6 +39,29 @@
 * BST
 * Priority Queues & Heaps
 * Graphs
+   * Graph Representation
+   * BFS
+   * DFS
+   * Cycle Detection
+   * Directed Acyclic Graph(DAG)
+   * Disjoint Set Union 
+   * Minimum Spanning Tree
+     * Prim's Algorithm
+     * Krushal's Algorithm
+   * Shortest Path Algorithms
+   * Travelling Sales Man Problem
+   * Flood Fill
+   * Multi-Source BFS
+   * DFS-Tree and Backedges
+   * Articulation Points and Bridges
+   * Strongly Connected Components
+   * Trees
+   * Euler Tour
+   * LCA
+   * Re-routing of trees
+   * Dynamic Programming on Trees
+   * Network Flow
+ 
 * Dynamic Programming
 * Other Topics
     * Hashmaps
