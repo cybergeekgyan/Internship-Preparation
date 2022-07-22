@@ -4,9 +4,37 @@
   - https://www.geeksforgeeks.org/uber-interview-experience-for-sde-1-2022-2/
   
 
--> Online Coding Round 
+- Round 1(Online Coding Round)
    - 3 Questions ---> 60 minutes
--> Technical Round 
+
+- Round 2(Technical Round)
+   - 30-40 mins
+
+- Round 3(Design Round)
+   - 40 mins
+   - System Design Problem using Object-Oriented Programming
+
+- Round 4(HR + Technical + Project + Internship + Puzzles 60-70 mins):
+
+This was a very long HR round. Here are some of the questions:
+
+- Introduce yourself.
+- Tell me about your hobbies, to which I replied problem solving and exercise. Then he asked me the latest problem you have solved. I told the problem which I solved in last round of uber.
+Then he grilled deep into projects , technologies , why I use only those technologies etc.
+After that, he went deep into my internship experience and what are the conflicts I faced during internship.
+Some HR and Behavioural related question.
+Tell me the time you were failed.
+Tell me the time when someone was disagree with you, how you reacted.
+Strength, weakness.
+
+
+
+- You can prepare HR and Behavioural related questions from https://www.interviewbit.com/hr-interview-questions/ here.
+
+- Then he went to the puzzles. We spent approx 15 minutes on puzzles and discussed the optimized approach we can have to that puzzle. I don’t remember exact puzzle.  
+
+- You can prepare puzzles from https://www.geeksforgeeks.org/puzzles/ here.
+
 -> HR Round(1 hr): This was a very long HR round. Here are some of the questions:
 
 - Introduce yourself
