@@ -2,6 +2,8 @@
 
 [Competitive Programming Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=shm)
 
+[Roadmap For Competitive Programming](https://dynalist.io/d/9WIOtr6RvqfQ1d0qK2Q5fVGI)
+
 
 ### Benefits
 
