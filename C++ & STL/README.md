@@ -1,5 +1,8 @@
 ### STL Cheat Sheets
 
-https://www.hackerearth.com/practice/notes/standard-template-library/
+- [CPP Guide](https://cppguide.readthedocs.io/en/latest/cpp/stl.html)
 
-https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md
+- https://www.hackerearth.com/practice/notes/standard-template-library/
+
+- https://www.geeksforgeeks.org/the-c-standard-template-library-stl/
+
