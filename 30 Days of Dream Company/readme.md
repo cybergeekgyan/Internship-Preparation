@@ -48,7 +48,7 @@
      - String Algorithms
      - Selection Algorithms (Medians)
         
-  - [System Design]()
+  - [System Design](https://github.com/cybergeekgyan/Internship-Preparation-/tree/main/System%20Design)
   - [Operating System]()
   - [DBMS (database management system)]()
   - [Object-Oriented Design]()
