@@ -24,7 +24,7 @@
      - Arrays and ADT
      - Strings 
      - Matrices
-     - Linkedin
+     - Linkedlist
      - Stacks
      - Queues
      - Trees
