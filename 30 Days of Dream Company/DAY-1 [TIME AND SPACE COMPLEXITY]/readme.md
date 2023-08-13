@@ -1,5 +1,6 @@
 ## Time and Space Complexity
 
+- Complexity classes
 ## [BIG O CHEATSHEET](https://www.bigocheatsheet.com)
 
 
